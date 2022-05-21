@@ -6,6 +6,6 @@ Watch my [Demo Videos!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 
 #Project Source Codes:
 * [Breakout Game](https://github.com/ShuyunLiu/Python_projects/tree/main/Python_projects/Breakout%20Game)
- * animation and game designing
+  * animation and game designing
 * [Name Popularity Searching System](https://github.com/ShuyunLiu/Python_projects/tree/main/Python_projects/Name%20Popularity%20Searching%20System)
- * data structure
+  * data structure
